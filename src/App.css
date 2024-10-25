@@ -1,0 +1,74 @@
+ul{
+    list-style: none;
+}
+.top{
+    border-bottom: 1px dashed #4e4c4c;
+    height: 41px;
+}
+
+.logo{
+    width: 90%;
+}
+.banner{
+    width: 100%;
+}
+.footer{
+    background: #17222B;
+}
+.icon{
+     
+    height: 30px;
+    width: 30px;
+    color: white;
+}
+.icons{
+    width: 40px;
+    height: 40px;
+    background:#37414b;
+    border: 1px solid #37414b;
+}
+.signup{
+    height: 50px;
+    width: 400px;
+}
+.footerbotom{
+    border-bottom: 2px dashed #4e4c4c;
+}
+.newscata{
+    border-right:2px dashed #4e4c4c ;
+    
+    
+}
+.newsbottom{
+    
+    border-top: 2px dashed #4e4c4c;
+}
+
+.footercat{
+    font-size: 14px;
+}
+.living{
+    border-left:  2px dashed #4e4c4c;
+}
+
+.icon{
+    height: 25px;
+    width: 25px;
+}
+.option{
+    border-right: 2px dashed #4e4c4c ;
+}
+.twiter{
+margin-left: 70px;}
+
+.down{
+background: #232D36;
+}
+
+.dropdown:hover .dropdown-menu {
+      display: block;
+}
+
+.nav{
+    font-size: 18px;
+}
